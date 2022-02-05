@@ -18,5 +18,4 @@ const TodoList = ({ todos, setTodos, filteredTodos }) => {
     </div>
   )
 }
-
 export default TodoList;
